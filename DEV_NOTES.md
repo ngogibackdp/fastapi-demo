@@ -9,3 +9,7 @@ Personal development log — notes, findings, and ongoing work.
 - Removed unused variable declarations
 - Added CONTRIBUTING.md stub
 - Added basic retry logic for network requests
+
+## 2026-04-05
+- Reviewed open issues, added labels
+- Added type hints to helper functions
